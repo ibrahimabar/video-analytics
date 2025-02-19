@@ -1,0 +1,7 @@
+venv/
+c_venv/
+__pycache__/
+*.log
+*.mp4
+*.avi
+.DS_Store
